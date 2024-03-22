@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ankita
+- 👀 I’m interested in cryptography.
+- 🌱 I’m currently learning Ethical hacking
+- 💞️ I’m looking to collaborate on some fascinating cyber security and frontend projects
+- ⚡ Fun fact: Always free...
